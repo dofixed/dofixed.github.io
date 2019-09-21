@@ -45,7 +45,7 @@ Notre seul objectif est d'améliorer l'expérience des joueurs, sans modifier le
 
 ### Et si c'était du hack ?
 
-La question est légitime. La vraie application Dofixed est 100% sûre pour votre compte Dofus (mais c'est aussi ce que dirait un hacker :/). Il n'y a pas vraiment de moyen d'attester de la non dangerosité de notre application. La seule chose qu'on puisse dire c'est qu'une analyse sur VirusTotal ne déclenche aucun des "grands" anti-virus. La seule alerte provient d'une détection de la part d'un antivirus Biélorusse (VBA32) pour lequel on ne peut pas faire grand chose.
+La question est légitime. La vraie application Dofixed est 100% sûre pour votre compte Dofus (mais c'est aussi ce que dirait un hacker :/). Il n'y a pas vraiment de moyen d'attester de la non dangerosité de notre application. La seule chose qu'on puisse dire c'est qu'une analyse sur VirusTotal ne déclenche aucun des "grands" anti-virus. En général on déclenche une alerte (Cylance et/ou VBA32), il s'agit de faux positifs.
 
 Après c'est à vous de voir, si vous voulez pas utiliser Dofixed on ne va pas vous forcer :D
 
