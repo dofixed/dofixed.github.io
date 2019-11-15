@@ -9,6 +9,7 @@ Dofixed est une application non officielle visant à améliorer le confort utili
 - intégration à Discord améliorée
 - liens rapides vers Dofensive
 - almanax intégré avec les offrandes et les bonus
+- partage communautaire des positions des portails
 - chat vocal de map
 - chat vocal d'équipe en combat
 
