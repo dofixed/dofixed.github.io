@@ -10,6 +10,7 @@ Dofixed est une application non officielle visant à améliorer le confort utili
 - liens rapides vers Dofensive
 - almanax intégré avec les offrandes et les bonus
 - partage communautaire des positions des portails
+- liens rapides vers les tutoriaux JoL des quêtes
 - chat vocal de map
 - chat vocal d'équipe en combat
 
@@ -42,7 +43,7 @@ Dofixed se désinstalle comme n'importe quel programme à partir du panneau de d
 ## Avertissements
 
 Attention, Dofixed n'a pas été autorisé par la société Ankama. Les CGU du jeu précisent qu'il est interdit d'utiliser des outils tiers ou d'en faire la pub sur le jeu/forum officiel. Dofixed ne respecte donc **pas** les CGU et un risque de ban est toujours présent. L'équipe Dofixed ne peut être tenue responsable en cas de ban.
-Cependant, Dofixed ne modifie pas le jeu ou ses fichiers, il ne fait que l'observer et afficher des informations. Il ne s'agit en aucun cas d'un bot et aucune action n'est automatisée. Par conséquent, l'utilisation de Dofixed n'est pas plus détectable par le jeu que celle de Paint ou de Discord, et nous serions très surpris de voir un ban arriver.
+Cependant, Dofixed ne modifie pas le jeu ou ses fichiers, il ne fait que l'observer et afficher des informations. Il ne s'agit en aucun cas d'un bot et aucune action n'est automatisée. Par conséquent, l'utilisation de Dofixed n'est pas plus détectable par le jeu que celle de Paint ou de Discord, et nous serions très surpris de voir un ban arriver. La bêta existe depuis Septembre 2019, et à notre connaissance, aucun problème de ban lié à l'utilisation de Dofixed n'a été reporté.
 
 Notre seul objectif est d'améliorer l'expérience des joueurs, sans modifier le jeu tel qu'il est conçu par Ankama. Si Ankama estime qu'une des features de Dofixed va à l'encontre de ce qu'ils souhaitent, nous la retirerons.
 
