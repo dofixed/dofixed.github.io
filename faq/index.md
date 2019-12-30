@@ -1,33 +1,18 @@
 ## FAQ
 
-### ###<a id="Q1"></a>Q1 ###
+<a id="Q1"></a> Comment installer Dofixed ?
 
-Texte
-Texte
-Texte
-Texte
-Texte
-Texte
-Texte
-Texte
-Texte
-Texte
-Texte
-Texte
-Texte
-Texte
-Texte
-Texte
-Texte
-Texte
-Texte
-Texte
-Texte
-Texte
-Texte
-Texte
-Texte
-
+<details>
+    <summary>### [Comment installer Dofixed](#Q1) ?</summary>
+    <p>
+        En utilisant [ce lien](https://github.com/dofixed/dofixed-install/archive/master.zip) vous obtiendrez une archive contenant : 
+        - un fichier .gitignore, que vous pouvez ... ignorer
+        - un fichier version.xml vous indiquant la version de Dofixed que vous avez téléchargée
+        - un fichier DofixedInstaller.exe
+        
+        En exécutant le DofixedInstaller, le processus d'installation se lancera, vous n'aurez plus qu'à suivre les instructions :)
+    </p>
+</details>
 
 ### Q2
 
