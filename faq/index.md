@@ -2,7 +2,7 @@
 
 <a id="Q1"></a> Comment installer Dofixed ?
 
-<details>
+<details markdown="1">
     <summary>### [Comment installer Dofixed](#Q1) ?</summary>
     <p>
         En utilisant [ce lien](https://github.com/dofixed/dofixed-install/archive/master.zip) vous obtiendrez une archive contenant : 
