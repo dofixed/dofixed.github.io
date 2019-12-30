@@ -2,9 +2,9 @@
 
 <a id="Q1"></a> Comment installer Dofixed ?
 
-<details markdown="1">
-    <summary>### [Comment installer Dofixed](#Q1) ?</summary>
-    <p>
+<details>
+    <summary markdown="1">### [Comment installer Dofixed](#Q1) ?</summary>
+    <p markdown="1">
         En utilisant [ce lien](https://github.com/dofixed/dofixed-install/archive/master.zip) vous obtiendrez une archive contenant : 
         - un fichier .gitignore, que vous pouvez ... ignorer
         - un fichier version.xml vous indiquant la version de Dofixed que vous avez téléchargée
