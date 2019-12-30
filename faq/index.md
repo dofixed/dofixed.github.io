@@ -9,7 +9,8 @@
 7. [Dofixed ne se lance pas](#Q7)
 8. [Pourquoi Dofixed me demande un accès à internet pour le pare-feu ?](#Q8)
 9. [Dofixed a cessé de fonctionner, comment remonter un bug ?](#Q9)
-10. [Comment suggérer une nouvelle fonctionnalité ?](#Q10)
+10. [Comment proposer une nouvelle fonctionnalité ?](#Q10)
+11. [Est-ce que Dofixed est autorisé par Ankama ?](Q11)
 
 ### <a id="Q1"></a> 1. Comment installer Dofixed ?
 
@@ -68,6 +69,10 @@ Tout comme Dofus ne peut fonctionner sans accès à internet, Dofixed a besoin d
 Vous pouvez signaler les bugs que vous rencontrez sur notre [serveur Discord](https://discord.gg/AznAbSV). N'oubliez pas de décrire le plus précisément possible la situation. "Barbare fonctionne pas" ne nous aidera pas à régler le problème. En revanche "Barbare n'est pas indiqué raté alors que XLII m'a mis pacifiste et que je n'ai pas fait de dégâts ni soigné" nous permettra de corriger le bug bien plus rapidement. Si nécessaire, veuillez à joindre à joindre à votre message le fichier de logs correspondant. Dofixed créé un fichier par jour (supprimé toutes les semaines) qu'il stocke dans son répertoire d'installation/Log. Vous pouvez également ouvrir ce dossier depuis Dofixed, onglet "Autre".
 
 
-### <a id="Q10"></a> 10. Comment suggérer une nouvelle fonctionnalité ?
+### <a id="Q10"></a> 10. Comment proposer une nouvelle fonctionnalité ?
 
 Pour ça, direction notre [serveur Discord](https://discord.gg/AznAbSV) !
+
+### <a id="Q11"></a> 11. Est-ce que Dofixed est autorisé par Ankama ?
+
+La question est difficile... L'équipe de Dofixed est en contact avec Ankama pour qu'ils valident les différentes fonctionnalités que nous ajoutons. En revanche l'utilisation de programme tiers est toujours interdite par les CGU de Dofus. La position officielle d'Ankama est donc que Dofixed n'est pas autorisé. La publicité de Dofixed en jeu et sur le forum est par conséquent interdite.
