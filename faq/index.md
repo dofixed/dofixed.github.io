@@ -6,7 +6,7 @@
 4. [Pourquoi ne pas rendre Dofixed open-source ?](#Q4)
 5. [Comment vérifier que je suis bien sur le port 5555 ?](#Q5)
 6. [Le mode semi-tactique est décalé !?](#Q6)
-7. [Dofixed ne se lance pas] (#Q7)
+7. [Dofixed ne se lance pas](#Q7)
 8. [Pourquoi Dofixed me demande un accès à internet pour le pare-feu ?](#Q8)
 9. [Dofixed a cessé de fonctionner, comment remonter un bug ?](#Q9)
 10. [Comment suggérer une nouvelle fonctionnalité ?](#Q10)
