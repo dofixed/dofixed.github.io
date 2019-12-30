@@ -10,7 +10,7 @@
 8. [Pourquoi Dofixed me demande un accès à internet pour le pare-feu ?](#Q8)
 9. [Dofixed a cessé de fonctionner, comment remonter un bug ?](#Q9)
 10. [Comment proposer une nouvelle fonctionnalité ?](#Q10)
-11. [Est-ce que Dofixed est autorisé par Ankama ?](Q11)
+11. [Est-ce que Dofixed est autorisé par Ankama ?](#Q11)
 
 ### <a id="Q1"></a> 1. Comment installer Dofixed ?
 
