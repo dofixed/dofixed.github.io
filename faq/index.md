@@ -11,6 +11,7 @@
 9. [Dofixed a cessé de fonctionner, comment remonter un bug ?](#Q9)
 10. [Comment proposer une nouvelle fonctionnalité ?](#Q10)
 11. [Est-ce que Dofixed est autorisé par Ankama ?](#Q11)
+12. [Le coeur des PV est tout en haut à gauche en combat !](#Q12)
 
 ### <a id="Q1"></a> 1. Comment installer Dofixed ?
 
@@ -76,3 +77,7 @@ Pour ça, direction notre [serveur Discord](https://discord.gg/AznAbSV) !
 ### <a id="Q11"></a> 11. Est-ce que Dofixed est autorisé par Ankama ?
 
 La question est difficile... L'équipe de Dofixed est en contact avec Ankama pour qu'ils valident les différentes fonctionnalités que nous ajoutons. En revanche l'utilisation de programme tiers est toujours interdite par les CGU de Dofus. La position officielle d'Ankama est donc que Dofixed n'est pas autorisé. La publicité de Dofixed en jeu et sur le forum est par conséquent interdite.
+
+### <a id="Q12"></a> 12. Le coeur des PV est tout en haut à gauche en combat !
+
+C'est un petit bug très simple à résoudre : il vous suffit de bouger l'interface Dofus avec le coeur et la barre des sorts (puis de la remettre à sa place si vous voulez). Le coeur devrait retrouver sa position tout seul et se positionner correctement pour les combats suivants.
