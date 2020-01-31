@@ -57,7 +57,7 @@ Si vous avez un écran haute résolution ou bien un facteur de zoom Windows, cel
 
 ### <a id="Q7"></a> 7. Dofixed ne se lance pas
 
-Par défaut, Dofixed n'est qu'un petit rectangle noir en haut à droite de la fenêtre Dofus sélectionné. Si la fenêtre Dofus associée n'est pas la fenêtre active, Dofixed se cache pour éviter de gêner la vue d'autres applications. Vérifiez qu'en cliquant sur la fenêtre Dofus associée à Dofixed le petit rectangle n'apparait pas ! Si vous êtes sûr que Dofixed ne s'est pas lancé, vous pouvez signaler votre bug sur Discord.
+Par défaut, Dofixed n'est qu'un petit rectangle noir en haut à gauche de la fenêtre Dofus sélectionné. Si la fenêtre Dofus associée n'est pas la fenêtre active, Dofixed se cache pour éviter de gêner la vue d'autres applications. Vérifiez qu'en cliquant sur la fenêtre Dofus associée à Dofixed le petit rectangle n'apparait pas ! Si vous êtes sûr que Dofixed ne s'est pas lancé, vous pouvez signaler votre bug sur Discord.
 
 
 ### <a id="Q8"></a> 8. Pourquoi Dofixed me demande un accès à internet pour le pare-feu ?
