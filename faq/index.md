@@ -12,6 +12,7 @@
 10. [Comment proposer une nouvelle fonctionnalité ?](#Q10)
 11. [Est-ce que Dofixed est autorisé par Ankama ?](#Q11)
 12. [Le coeur des PV est tout en haut à gauche en combat !](#Q12)
+13. [Comment capturer la fenêtre du rapport de combat ?](#Q13)
 
 ### <a id="Q1"></a> 1. Comment installer Dofixed ?
 
@@ -81,3 +82,14 @@ La question est difficile... L'équipe de Dofixed est en contact avec Ankama pou
 ### <a id="Q12"></a> 12. Le coeur des PV est tout en haut à gauche en combat !
 
 C'est un petit bug très simple à résoudre : il vous suffit de bouger l'interface Dofus avec le coeur et la barre des sorts (puis de la remettre à sa place si vous voulez). Le coeur devrait retrouver sa position tout seul et se positionner correctement pour les combats suivants.
+
+### <a id="Q13"></a> 13. Comment capturer la fenêtre du rapport de combat ?
+
+La nature très spéciale des fenêtres de Dofixed (multifenêtre, transparence etc ...) les rendent un peu plus compliqué à capturer avec les logiciels utilisés classiquement (OBS). Ceci est dû principalement à Windows qui ne permet pas à OBS de les capturer comme des fenêtres classiques afin d'optimiser le rendu.
+Il existe cependant un moyen de capturer la fenêtre de rapport de combat si vous le souhaitez. Cette solution nécessite au minimum Windows 10 et la version 25 d'OBS (disponible uniquement en pre-release au moment de l'écriture de ces lignes).
+Pour capturer le rapport de combat, vous devez utiliser une scène de type "Capture de Fenêtre", sélectionner la fenêtre concernée (normalement nommée \[Dofixed.exe\]: Fight Report) et utiliser la méthode de capture "Windows Graphics Capture". Si tout se passe bien, la prévisualisation de la fenêtre devrait apparaitre et la fenêtre devrait être entourée d'un rectangle jaune. Ce rectangle est ajouté par Windows pour indiquer qu'une capture est en cours, il n'apparait pas dans la capture en elle-même.
+
+<details>
+    <summary>En images</summary>
+    <img src="images/obs_fight_report.jpg">
+</details>
