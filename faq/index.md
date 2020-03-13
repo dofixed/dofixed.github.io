@@ -85,7 +85,7 @@ C'est un petit bug très simple à résoudre : il vous suffit de bouger l'interf
 
 ### <a id="Q13"></a> 13. Comment capturer la fenêtre du rapport de combat ?
 
-La nature très spéciale des fenêtres de Dofixed (multifenêtre, transparence etc ...) les rendent un peu plus compliqué à capturer avec les logiciels utilisés classiquement (OBS). Ceci est dû principalement à Windows qui ne permet pas à OBS de les capturer comme des fenêtres classiques afin d'optimiser le rendu.
+La nature très spéciale des fenêtres de Dofixed (multifenêtre, transparence etc ...) les rend un peu plus compliquées à capturer avec les logiciels utilisés classiquement (OBS). Ceci est dû principalement à Windows qui utilise une méthode de rendu ne permettant pas à OBS de les capturer comme des fenêtres classiques (à des fins d'optimisation).
 Il existe cependant un moyen de capturer la fenêtre de rapport de combat si vous le souhaitez. Cette solution nécessite au minimum Windows 10 et la version 25 d'OBS (disponible uniquement en pre-release au moment de l'écriture de ces lignes).
 Pour capturer le rapport de combat, vous devez utiliser une scène de type "Capture de Fenêtre", sélectionner la fenêtre concernée (normalement nommée \[Dofixed.exe\]: Fight Report) et utiliser la méthode de capture "Windows Graphics Capture". Si tout se passe bien, la prévisualisation de la fenêtre devrait apparaitre et la fenêtre devrait être entourée d'un rectangle jaune. Ce rectangle est ajouté par Windows pour indiquer qu'une capture est en cours, il n'apparait pas dans la capture en elle-même.
 
