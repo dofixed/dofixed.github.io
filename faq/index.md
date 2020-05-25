@@ -13,6 +13,7 @@
 11. [Est-ce que Dofixed est autorisé par Ankama ?](#Q11)
 12. [Le coeur des PV est tout en haut à gauche en combat !](#Q12)
 13. [Comment capturer la fenêtre du rapport de combat ?](#Q13)
+14. [Les objets que je drop ne s'ajoutent pas à ma session de Kamas](#Q14)
 
 ### <a id="Q1"></a> 1. Comment installer Dofixed ?
 
@@ -93,3 +94,7 @@ Pour capturer le rapport de combat, vous devez utiliser une scène de type "Capt
     <summary>En images</summary>
     <img src="images/obs_fight_report.jpg">
 </details>
+
+### <a id="Q14"></a> 14. Les objets que je drop ne s'ajoutent pas à ma session de Kamas
+
+Pour que les drops soient comptabilisés par la session, il est nécessaire que Dofixed connaisse votre serveur de jeu (pour utiliser des prix estimés réalistes). Vous pouvez vérifier dans l'onglet "Social" si vous avez ajouté votre serveur. Si ce n'est pas le cas, il suffit d'utiliser la commande /whoami dans le chat et de changer de map. Si vous avez déjà utilisé la commande sur ce personnage, un changement de map suffit !
