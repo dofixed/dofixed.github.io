@@ -52,6 +52,7 @@ Fin de la version bêta, merci à tous ceux qui ont remonté des bugs !
 - Pleins de petites et de grosses optimisations que personne ne verra
 - Nettoyage et uniformisation du code
 - Accélération du temps de chargement initial
+- Ajout d'un lien "tous les mobs" vers DoFensive
 - Focus sur la fenêtre Dofus sélectionnée à la fin du chargement de Dofixed
 - Ajout d'effets manquants à la fenêtre des effets au survol des entités
 - Ajout d'une option pour n'afficher les effets au survol que si la touche Shift est enfoncée
