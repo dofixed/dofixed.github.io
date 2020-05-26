@@ -1,6 +1,18 @@
 ## Changelog
 
-### 1.0
+### <a id="1.0.1"></a>1.0.1
+
+#### Nouveautés
+
+- Ajout d'un bouton pour réinitialiser la session en cours
+
+#### Corrections
+
+- Fix de l'Almanax
+- Fix du crash sur les serveurs avec un accent (Mériana on te voit)
+- Fix du statut dans Discord
+
+### <a id="1.0"></a>1.0
 
 Fin de la version bêta, merci à tous ceux qui ont remonté des bugs !
 
