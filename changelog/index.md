@@ -1,5 +1,12 @@
 ## Changelog
 
+### <a id="1.0.2"></a>1.0.2
+
+#### Corrections
+
+- Fix du crash à l'ouverture du livre de quêtes
+- Fix du reset de session quand l'option de sauvegarde est activée
+
 ### <a id="1.0.1"></a>1.0.1
 
 #### Nouveautés
