@@ -15,6 +15,7 @@ Dofixed est une application non officielle visant à améliorer le confort utili
 - liens rapides vers les tutoriaux JoL des quêtes
 - chat vocal de map
 - chat vocal d'équipe en combat
+- (bêta) timeline améliorée
 
 ## Installation, lancement, mises à jour et désinstallation
 
