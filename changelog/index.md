@@ -1,5 +1,31 @@
 ## Changelog
 
+### <a id="1.0.3"></a>1.0.3
+
+#### Nouveautés
+
+- Compatibilité avec la 2.56
+- Déplacement du bouton Dofixed sur la barre de titre de la fenêtre Dofus lorsque possible pour ne pas déranger les interfaces Dofus sur des petits écrans
+
+#### Corrections
+
+- Remplacement du doublon "Dommage Air" par la bonne ligne "Dommage Feu" dans le rapport de combat
+- Correction du crash au démarrage si le service de pare-feu Windows n'est pas disponible
+- Correction du lancement automatique avec Dofus
+- Correction du crash au démarrage si on essaie d'interagir avec la fenêtre avant que tout soit initialisé
+
+#### Succès
+
+- Les personnages morts n'ont plus besoin de valider Nomade
+- Les dégâts sur les invocations ne sont plus comptés pour Duel
+- Les invocations (en particulier les doubles Sram) n'ont plus besoin de valider Hardi
+- Le Chafer Rōnin retrouve ses succès
+
+#### Corrections
+
+- Fix du crash à l'ouverture du livre de quêtes
+- Fix du reset de session quand l'option de sauvegarde est activée
+
 ### <a id="1.0.2"></a>1.0.2
 
 #### Corrections
