@@ -1,5 +1,15 @@
 ## Changelog
 
+### <a id="1.0.4"></a>1.0.4
+
+#### Nouveautés
+
+- Compatibilité avec la 2.56.3
+
+#### Corrections
+
+- Fix du crash quand on arrive sur une map avec un percepteur
+
 ### <a id="1.0.3"></a>1.0.3
 
 #### Nouveautés
