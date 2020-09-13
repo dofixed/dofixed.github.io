@@ -12,7 +12,7 @@
 
 ### <a id="1.0.3"></a>1.0.3
 <details>
-    <summary>Détails</summary>
+    <summary>Contenu</summary>
 
 #### Nouveautés
 
@@ -34,20 +34,21 @@
 - Le Chafer Rōnin retrouve ses succès
 </details>
 
-### <a id="1.0.2"></a>1.0.2
 
-<details markdown="1">
+### <a id="1.0.2"></a>1.0.2
+<details>
+    <summary>Contenu</summary>
 
 #### Corrections
 
 - Fix du crash à l'ouverture du livre de quêtes
 - Fix du reset de session quand l'option de sauvegarde est activée
-
 </details>
 
-### <a id="1.0.1"></a>1.0.1
 
-<details markdown="1">
+### <a id="1.0.1"></a>1.0.1
+<details>
+    <summary>Contenu</summary>
 
 #### Nouveautés
 
@@ -58,12 +59,13 @@
 - Fix de l'Almanax
 - Fix du crash sur les serveurs avec un accent (Mériana on te voit)
 - Fix du statut dans Discord
-
 </details>
 
-### <a id="1.0"></a>1.0
 
-<details markdown="1">
+### <a id="1.0"></a>1.0
+<details>
+    <summary>Contenu</summary>
+
 Fin de la version bêta, merci à tous ceux qui ont remonté des bugs !
 
 #### Nouveautés
