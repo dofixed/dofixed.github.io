@@ -50,7 +50,8 @@
 - Fix du crash sur les serveurs avec un accent (Mériana on te voit)
 - Fix du statut dans Discord
 
-### <a id="1.0"></a>1.0
+<details>
+### <a id="1.0"></a><summary>1.0</summary>
 
 Fin de la version bêta, merci à tous ceux qui ont remonté des bugs !
 
@@ -109,3 +110,4 @@ Fin de la version bêta, merci à tous ceux qui ont remonté des bugs !
 - Changement de la couleur des liens pour éviter le bleu sur fond bleu
 - Ajout d'info-bulles un peu partout
 - L'indicateur d'activité Discord indique désormais "Dofus avec Dofixed"
+</details>
