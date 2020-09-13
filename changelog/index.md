@@ -12,7 +12,6 @@
 
 ### <a id="1.0.3"></a>1.0.3
 <details markdown="1">
-    <summary>Contenu</summary>
 
 #### Nouveautés
 
@@ -36,8 +35,7 @@
 
 
 ### <a id="1.0.2"></a>1.0.2
-<details>
-    <summary>Contenu</summary>
+<details markdown="1">
 
 #### Corrections
 
@@ -47,8 +45,7 @@
 
 
 ### <a id="1.0.1"></a>1.0.1
-<details>
-    <summary>Contenu</summary>
+<details markdown="1">
 
 #### Nouveautés
 
@@ -63,8 +60,7 @@
 
 
 ### <a id="1.0"></a>1.0
-<details>
-    <summary>Contenu</summary>
+<details markdown="1">
 
 Fin de la version bêta, merci à tous ceux qui ont remonté des bugs !
 
