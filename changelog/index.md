@@ -11,8 +11,8 @@
 - Fix du crash quand on arrive sur une map avec un percepteur
 
 ### <a id="1.0.3"></a>1.0.3
-
-<details markdown="1">
+<details>
+    <summary>Détails</summary>
 
 #### Nouveautés
 
@@ -32,9 +32,7 @@
 - Les dégâts sur les invocations ne sont plus comptés pour Duel
 - Les invocations (en particulier les doubles Sram) n'ont plus besoin de valider Hardi
 - Le Chafer Rōnin retrouve ses succès
-
 </details>
-
 
 ### <a id="1.0.2"></a>1.0.2
 
