@@ -10,7 +10,9 @@
 
 - Fix du crash quand on arrive sur une map avec un percepteur
 
-### <a id="1.0.3"></a>1.0.3
+
+<a id="1.0.3"></a><details markdown="1">
+<summary markdown="span">1.0.3</summary>
 
 #### Nouveautés
 
@@ -31,14 +33,21 @@
 - Les invocations (en particulier les doubles Sram) n'ont plus besoin de valider Hardi
 - Le Chafer Rōnin retrouve ses succès
 
-### <a id="1.0.2"></a>1.0.2
+</details>
+
+
+<a id="1.0.2"></a><details markdown="1">
+<summary markdown="span">1.0.2</summary>
 
 #### Corrections
 
 - Fix du crash à l'ouverture du livre de quêtes
 - Fix du reset de session quand l'option de sauvegarde est activée
 
-### <a id="1.0.1"></a>1.0.1
+</details>
+
+<a id="1.0.1"></a><details markdown="1">
+<summary markdown="span">1.0.1</summary>
 
 #### Nouveautés
 
@@ -50,9 +59,10 @@
 - Fix du crash sur les serveurs avec un accent (Mériana on te voit)
 - Fix du statut dans Discord
 
+</details>
 
 <a id="1.0"></a><details markdown="1">
-###<summary markdown="span">1.0</summary>
+<summary markdown="span">1.0</summary>
 Fin de la version bêta, merci à tous ceux qui ont remonté des bugs !
 
 #### Nouveautés
