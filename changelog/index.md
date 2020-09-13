@@ -10,9 +10,9 @@
 
 - Fix du crash quand on arrive sur une map avec un percepteur
 
+### <a id="1.0.3"></a>1.0.3
 
-<a id="1.0.3"></a><details markdown="1">
-<summary markdown="span">1.0.3</summary>
+<details markdown="1">
 
 #### Nouveautés
 
@@ -36,8 +36,9 @@
 </details>
 
 
-<a id="1.0.2"></a><details markdown="1">
-<summary markdown="span">1.0.2</summary>
+### <a id="1.0.2"></a>1.0.2
+
+<details markdown="1">
 
 #### Corrections
 
@@ -46,8 +47,9 @@
 
 </details>
 
-<a id="1.0.1"></a><details markdown="1">
-<summary markdown="span">1.0.1</summary>
+### <a id="1.0.1"></a>1.0.1
+
+<details markdown="1">
 
 #### Nouveautés
 
@@ -61,8 +63,9 @@
 
 </details>
 
-<a id="1.0"></a><details markdown="1">
-<summary markdown="span">1.0</summary>
+### <a id="1.0"></a>1.0
+
+<details markdown="1">
 Fin de la version bêta, merci à tous ceux qui ont remonté des bugs !
 
 #### Nouveautés
