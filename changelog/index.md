@@ -50,8 +50,8 @@
 - Fix du crash sur les serveurs avec un accent (Mériana on te voit)
 - Fix du statut dans Discord
 
-<details>
-### <a id="1.0"></a><summary>1.0</summary>
+<details markdown="1">
+<a id="1.0"></a><summary>### 1.0</summary>
 
 Fin de la version bêta, merci à tous ceux qui ont remonté des bugs !
 
