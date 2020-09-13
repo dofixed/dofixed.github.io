@@ -11,7 +11,7 @@
 - Fix du crash quand on arrive sur une map avec un percepteur
 
 ### <a id="1.0.3"></a>1.0.3
-<details>
+<details markdown="1">
     <summary>Contenu</summary>
 
 #### Nouveautés
