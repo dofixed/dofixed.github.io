@@ -1,6 +1,37 @@
 ## Changelog
 
+### <a id="1.1"></a>1.1
+
+#### Nouveautés
+
+- Dofixed se dote d'un nouvel outil : le replayer ! Grâce à lui vous pourrez enregistrer vos combats dans un format léger pour les revivre par la suite
+- La session enregistre désormais les Kamas perdus ou détruits (zaap, banque ...), ainsi que les gains bruts (quêtes, succès)
+- Un nouveau paramètre permet d'activer la fonctionnalité "Multicompte". Cette dernière n'est pour l'instant compatible que pour enregistrer les gains/pertes de Kamas bruts dans la session, mais d'autres fonctionnalités devraient s'ajouter progressivement
+
+#### Améliorations
+
+- Les notifications de vente sont améliorées sur Windows 10
+- Les rendus des personnages dans la timeline et le renderer sont fidèles aux rendus en jeu (mise à l'échelle et recalage des items, pose des personnages etc ...)
+- Amélioration de la gestion réseau pour éviter les crash en cas de surcharge (exemple : rentrer en Bethel à 8 comptes)
+
+#### Corrections
+
+- La timeline retrouve les rendus des personnages et des monstres
+- Les instances "fantômes" de Dofixed ne l'empêche plus de se lancer
+- Les items de quête ne sont plus comptabilisés comme drop par la session
+- Les modules Dofixed fonctionnent de nouveau normalement même en cas de présence d'interface réseau virtuelle (Hamachi, VPN etc ...)
+- Détection automatique de l'absence des redist VC++ à l'installation pour éviter les crash au démarrage
+
+#### Succès
+
+- Les succès du donjon Akwadala apparaissent correctement
+- Focus n'est plus noté comme échoué en cas de résu d'un monstre
+- Les succès du Bworker ne sont plus affichés dans le donjon des Bworks
+- Mains propres n'est plus noté comme échoué lorsque le kill est fait avec Crocobur en fin de tour
+
+
 ### <a id="1.0.4"></a>1.0.4
+<details markdown="1">
 
 #### Nouveautés
 
@@ -9,6 +40,7 @@
 #### Corrections
 
 - Fix du crash quand on arrive sur une map avec un percepteur
+</details>
 
 ### <a id="1.0.3"></a>1.0.3
 <details markdown="1">
