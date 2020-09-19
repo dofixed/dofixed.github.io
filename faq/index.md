@@ -14,6 +14,7 @@
 12. [Le coeur des PV est tout en haut à gauche en combat !](#Q12)
 13. [Comment capturer la fenêtre du rapport de combat ?](#Q13)
 14. [Les objets que je drop ne s'ajoutent pas à ma session de Kamas](#Q14)
+15. [A quoi servent les fichiers .replay ? Comment les lire ?](#Q15)
 
 ### <a id="Q1"></a> 1. Comment installer Dofixed ?
 
@@ -98,3 +99,7 @@ Pour capturer le rapport de combat, vous devez utiliser une scène de type "Capt
 ### <a id="Q14"></a> 14. Les objets que je drop ne s'ajoutent pas à ma session de Kamas
 
 Pour que les drops soient comptabilisés par la session, il est nécessaire que Dofixed connaisse votre serveur de jeu (pour utiliser des prix estimés réalistes). Vous pouvez vérifier dans l'onglet "Social" si vous avez ajouté votre serveur. Si ce n'est pas le cas, il suffit d'utiliser la commande /whoami dans le chat et de changer de map. Si vous avez déjà utilisé la commande sur ce personnage, un changement de map suffit !
+
+### <a id="Q15"></a> 15. A quoi servent les fichiers .replay ? Comment les lire ?
+
+Les fichiers .replay sont les fichiers permettant de revivre un combat enregistré par Dofixed. Pour les lire, vous devez utiliser le Dofixed Replayer. Celui-ci s'installe automatiquement au même endroit lorsque vous installez Dofixed. Nous avons prévu de permettre de le télécharger de manière indépendante prochainement pour les personnes ne souhaitant pas installer Dofixed. Contrairement à Dofixed, il ne nécessite pas que Dofus ou Dofixed soient installés sur le PC pour fonctionner correctement.
