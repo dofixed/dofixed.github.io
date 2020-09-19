@@ -15,6 +15,7 @@
 13. [Comment capturer la fenêtre du rapport de combat ?](#Q13)
 14. [Les objets que je drop ne s'ajoutent pas à ma session de Kamas](#Q14)
 15. [A quoi servent les fichiers .replay ? Comment les lire ?](#Q15)
+16. [A quoi correspondent les différents chiffres dans les Kamas de la session ?](#Q16)
 
 ### <a id="Q1"></a> 1. Comment installer Dofixed ?
 
@@ -103,3 +104,10 @@ Pour que les drops soient comptabilisés par la session, il est nécessaire que 
 ### <a id="Q15"></a> 15. A quoi servent les fichiers .replay ? Comment les lire ?
 
 Les fichiers .replay sont les fichiers permettant de revivre un combat enregistré par Dofixed. Pour les lire, vous devez utiliser le Dofixed Replayer. Celui-ci s'installe automatiquement au même endroit lorsque vous installez Dofixed. Nous avons prévu de permettre de le télécharger de manière indépendante prochainement pour les personnes ne souhaitant pas installer Dofixed. Contrairement à Dofixed, il ne nécessite pas que Dofus ou Dofixed soient installés sur le PC pour fonctionner correctement.
+
+### <a id="Q16"></a> 16. A quoi correspondent les différents chiffres dans les Kamas de la session ?
+
+Les Kamas de la session sont divisés en trois parties, dans l'ordre :
+- les Kamas "bruts" obtenus soit à la fin des combats, soit par quête/succès. Si l'option multi-compte est activée, les Kamas des quêtes/succès de tous les comptes connectés sont additionnés.
+- les Kamas "estimés" à partir des ressources obtenues soit à la fin des combats, soit par quête/succès. Si l'option multi-compte est activée, les items des quêtes/succès de tous les comptes sont additionnés.
+- les Kamas "détruits" lors de l'utilisation de Zaap, d'ouverture de compte en banque, de mise en vente en HDV ou de PNJ pas sympa. Si l'option multi-compte est activée, les Kamas détruits de tous les comptes sont additionnés.
