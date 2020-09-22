@@ -1,6 +1,30 @@
 ## Changelog
 
+### <a id="1.1.1"></a>1.1.1
+
+#### Nouveautés
+
+- Compatibilité avec la 2.57
+
+#### Améliorations
+
+- Les fichiers .replay deviennent des fichiers .dfxr. Les fichiers .replay déjà enregistrés peuvent toujours être lus
+- Les fichiers .dfxr peuvent désormais être ouverts par défaut par le Dofixed Replayer lorsque Dofixed est installé sur le PC
+- Amélioration de la prise en charge des glyphes dans le replayer (cawotte, prémonition ...)
+- Le replayer peut désormais charger les noms de cases personnalisés de la même manière que le mode semi-tactique de Dofixed
+
+#### Corrections
+
+- L'érosion actuelle s'affiche désormais correctement à côté du coeur des PV
+- Le replayer ne crash plus quand une entité "sans position" (par exemple invisible) joue
+
+#### Succès
+
+- La détection de l'état des succès en temps réel est désactivée suite à l'implémentation de la feature de manière officielle et moins buguée par Ankama
+
+
 ### <a id="1.1"></a>1.1
+<details markdown="1">
 
 #### Nouveautés
 
@@ -28,7 +52,7 @@
 - Focus n'est plus noté comme échoué en cas de résu d'un monstre
 - Les succès du Bworker ne sont plus affichés dans le donjon des Bworks
 - Mains propres n'est plus noté comme échoué lorsque le kill est fait avec Crocobur en fin de tour
-
+</details>
 
 ### <a id="1.0.4"></a>1.0.4
 <details markdown="1">

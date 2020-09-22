@@ -4,7 +4,7 @@ Dofixed est une application non officielle visant à améliorer le confort utili
 
 ## Fonctionnalités
 
-- détection de l'échec des succès en temps réel
+- ~~détection de l'échec des succès en temps réel~~
 - rapport de combat détaillé (dégâts infligés, répartition des dégâts par élément, retrait PA/PM etc ...)
 - suivi du gain d'XP et de Kamas en temps réel
 - mode semi-tactique (obstacles/trous visibles, affichage des positions des entités cachées par les décors)
