@@ -1,6 +1,19 @@
 ## Changelog
 
+### <a id="1.1.2"></a>1.1.2
+
+#### Nouveautés
+
+- Compatibilité avec la 2.57.4.5
+
+#### Améliorations
+
+- Ajout des idoles dans l'enregistrement des replay
+- Ajout des challenges dans l'enregistrement des replay
+- Améliorations des l'afichage des détails de boost/dégâts dans le replayer
+
 ### <a id="1.1.1"></a>1.1.1
+<details markdown="1">
 
 #### Nouveautés
 
@@ -21,6 +34,7 @@
 #### Succès
 
 - La détection de l'état des succès en temps réel est désactivée suite à l'implémentation de la feature de manière officielle et moins buguée par Ankama
+</details>
 
 
 ### <a id="1.1"></a>1.1
