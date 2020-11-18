@@ -36,6 +36,10 @@ A chaque lancement, Dofixed vérifie la présence d'une mise à jour et propose 
 
 Dofixed se désinstalle comme n'importe quel programme à partir du panneau de désinstallation des programmes Windows.
 
+### No install replayer
+
+Si vous souhaitez ouvrir les fichiers dfxr enregistrés avec Dofixed mais que vous ne souhaitez pas installer l'application, vous pouvez télécharger une version "no install" du replayer uniquement en suivant [ce lien](https://github.com/dofixed/dofixed-replayer/archive/master.zip).
+
 ## Limitations
 
 - Windows uniquement

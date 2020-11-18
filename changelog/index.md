@@ -1,16 +1,24 @@
 ## Changelog
 
-### <a id="1.1.2"></a>1.1.2
+### <a id="1.2"></a>1.2
 
 #### Nouveautés
 
-- Compatibilité avec la 2.57.4.5
+- Ajout d'une coloration de Dofixed en fonction de l'état actuel de Dofixed (hors-ligne, connecté, position détectée, identifié)
+- Le replayer est disponible de manière indépendante de l'installation de Dofixed
 
 #### Améliorations
 
-- Ajout des idoles dans l'enregistrement des replay
-- Ajout des challenges dans l'enregistrement des replay
-- Améliorations des l'afichage des détails de boost/dégâts dans le replayer
+- Refonte globale du système de chat vocal (map/combat)
+- Refonte globale de l'interface Dofixed
+    - Affichage des images des monstres pour DoFensive
+    - Regroupement de tous les paramètres dans un onglet dédié
+    
+#### Corrections
+
+- Le replayer ne crash plus en cas de fichier .dfxr corrompu
+- Fix avec notre partenaire JoL le crash en cas d'ouverture du livre de quêtes dans certains cas
+
 
 ### <a id="1.1.1"></a>1.1.1
 <details markdown="1">
