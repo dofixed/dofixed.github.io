@@ -16,6 +16,7 @@
 14. [Les objets que je drop ne s'ajoutent pas à ma session de Kamas](#Q14)
 15. [A quoi servent les fichiers .replay ? Comment les lire ?](#Q15)
 16. [A quoi correspondent les différents chiffres dans les Kamas de la session ?](#Q16)
+17. [A quoi correspondent les couleurs du logo Dofixed ?](#Q17)
 
 ### <a id="Q1"></a> 1. Comment installer Dofixed ?
 
@@ -111,3 +112,7 @@ Les Kamas de la session sont divisés en trois parties, dans l'ordre :
 - les Kamas "bruts" obtenus soit à la fin des combats, soit par quête/succès. Si l'option multi-compte est activée, les Kamas des quêtes/succès de tous les comptes connectés sont additionnés.
 - les Kamas "estimés" à partir des ressources obtenues soit à la fin des combats, soit par quête/succès. Si l'option multi-compte est activée, les items des quêtes/succès de tous les comptes sont additionnés.
 - les Kamas "détruits" lors de l'utilisation de Zaap, d'ouverture de compte en banque, de mise en vente en HDV ou de PNJ pas sympa. Si l'option multi-compte est activée, les Kamas détruits de tous les comptes sont additionnés.
+
+### <a id="Q17"></a> 17. A quoi correspondent les couleurs du logo Dofixed ?
+
+Le logo peut prendre différentes couleurs pour vous indiquer les éventuels problème que peut rencontrer Dofixed au lancement. En passant votre souris sur le logo, un tooltip devrait apparaitre pour vous indiquer comment résoudre le problème !
