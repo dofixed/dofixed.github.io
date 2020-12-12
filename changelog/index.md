@@ -1,6 +1,24 @@
 ## Changelog
 
+### <a id="1.2.1"></a>1.2.1
+
+#### Nouveautés
+
+- Ajout d'un kikimeter compact
+
+#### Améliorations
+
+- La couleur du mode semi-tactique s'adapte automatiquement aux couleurs de la zone
+- La connexion avec le réseau est beaucoup plus stable (il ne devrait plus y avoir de désynchronisation entre le jeu et Dofixed)
+
+#### Corrections
+
+- Fix des crash en cas de combat avec un percepteur
+- Fix du crash lors du lancement de Dofixed avec plusieurs fenêtres dofus ouvertes
+
+
 ### <a id="1.2"></a>1.2
+<details markdown="1">
 
 #### Nouveautés
 
@@ -18,6 +36,7 @@
 
 - Le replayer ne crash plus en cas de fichier .dfxr corrompu
 - Fix avec notre partenaire JoL le crash en cas d'ouverture du livre de quêtes dans certains cas
+</details>
 
 
 ### <a id="1.1.1"></a>1.1.1
