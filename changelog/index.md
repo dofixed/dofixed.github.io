@@ -1,6 +1,15 @@
 ## Changelog
 
+
+### <a id="1.2.2"></a>1.2.2
+
+#### Améliorations
+
+- Compatibilité avec la 2.58
+
+
 ### <a id="1.2.1"></a>1.2.1
+<details markdown="1">
 
 #### Nouveautés
 
@@ -15,7 +24,7 @@
 
 - Fix des crash en cas de combat avec un percepteur
 - Fix du crash lors du lancement de Dofixed avec plusieurs fenêtres dofus ouvertes
-
+</details>
 
 ### <a id="1.2"></a>1.2
 <details markdown="1">
