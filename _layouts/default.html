@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ page.lang | default: "en-US" }}">
   <head>
     <meta charset='utf-8'>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,16 +15,21 @@
   </head>
 
   <body>
+    <script>
+        var lang = navigator.language || navigator.userLanguage;
+        if (lang.indexOf('en') == 0)
+            window.location = '/en/';
+    </script>
     <div id="container">
       <div class="inner">
 
         <header>
           <h1>{{ site.title | default: site.title | default: site.github.repository_name }}</h1>
-          <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+          <h2>{{ site.data.translations.description[page.lang] }}</h2>
         </header>
         <section id="downloads" class="clearfix">
           {% if site.show_downloads %}
-          <a href="{{ site.github.zip_url }}" id="download-zip" class="button"><span>Télécharger</span></a>
+          <a href="{{ site.github.zip_url }}" id="download-zip" class="button"><span>{{ site.data.translations.download[page.lang] }}</span></a>
           {% endif %}
 	{% if site.github.public %}
 	  {% if site.github.is_project_page %}
@@ -37,7 +42,7 @@
         <section>
             <table>
                 <tr>
-                    <th id="section-home"><a href="/">Accueil</a></th>
+                    <th id="section-home"><a href="/">{{ site.data.translations.home[page.lang] }}</a></th>
                     <th id="section-faq"><a class="menu-item-link" href="/faq/">FAQ</a></th>
                     <th id="section-contact"><a class="menu-item-link" href="/contact/">Contact</a></th>
                     <th id="section-changelog"><a class="menu-item-link" href="/changelog/">Changelog</a></th>

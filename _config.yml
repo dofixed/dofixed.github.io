@@ -1,7 +1,16 @@
 theme: jekyll-theme-tactile
 title: Dofixed
-description: Application non officielle pour Dofus
 show_downloads: "true"
 
 github:
     zip_url: https://github.com/dofixed/dofixed-install/archive/master.zip
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      lang: "fr"
+  - scope:
+      path: "en"
+    values:
+      lang: "en"
