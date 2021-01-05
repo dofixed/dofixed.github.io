@@ -3,6 +3,7 @@
   <head>
     <meta charset='utf-8'>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.data.translations.description[page.lang] }}">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="google-site-verification" content="cwmLPauv0Yzyyjaa5ZYdruD3O_e5moAHDLkGINPttVE" />
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
@@ -17,7 +18,7 @@
   <body>
     <script>
         var lang = navigator.language || navigator.userLanguage;
-        if (lang.indexOf('en') == 0)
+        if (lang.indexOf('fr') != 0)
             window.location = '/en/';
     </script>
     <div id="container">
@@ -42,10 +43,10 @@
         <section>
             <table>
                 <tr>
-                    <th id="section-home"><a href="/">{{ site.data.translations.home[page.lang] }}</a></th>
-                    <th id="section-faq"><a class="menu-item-link" href="/faq/">FAQ</a></th>
-                    <th id="section-contact"><a class="menu-item-link" href="/contact/">Contact</a></th>
-                    <th id="section-changelog"><a class="menu-item-link" href="/changelog/">Changelog</a></th>
+                    <th id="section-home"><a href="{{ site.data.translations.base_path[page.lang] }}">{{ site.data.translations.home[page.lang] }}</a></th>
+                    <th id="section-faq"><a class="menu-item-link" href="{{ site.data.translations.base_path[page.lang] }}faq/">FAQ</a></th>
+                    <th id="section-contact"><a class="menu-item-link" href="{{ site.data.translations.base_path[page.lang] }}contact/">Contact</a></th>
+                    <th id="section-changelog"><a class="menu-item-link" href="{{ site.data.translations.base_path[page.lang] }}changelog/">Changelog</a></th>
                 </tr>
             </table>
         </section>

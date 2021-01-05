@@ -9,4 +9,7 @@ download:
 home:
     en: Home
     fr: Accueil
-    
+   
+base_path:
+    en: /en/
+    fr: /
