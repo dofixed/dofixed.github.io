@@ -18,7 +18,7 @@
   <body>
     <script>
         var lang = navigator.language || navigator.userLanguage;
-        if (lang.indexOf('fr') != 0)
+        if (lang.indexOf('fr') < 0 && {{ page.lang }} != "en")
             window.location = '/en/';
     </script>
     <div id="container">
