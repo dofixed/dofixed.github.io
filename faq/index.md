@@ -14,7 +14,7 @@
 12. [Le coeur des PV est tout en haut à gauche en combat !](#Q12)
 13. [Comment capturer la fenêtre du rapport de combat ?](#Q13)
 14. [Les objets que je drop ne s'ajoutent pas à ma session de Kamas](#Q14)
-15. [A quoi servent les fichiers .replay ? Comment les lire ?](#Q15)
+15. [A quoi servent les fichiers .dfxr ? Comment les lire ?](#Q15)
 16. [A quoi correspondent les différents chiffres dans les Kamas de la session ?](#Q16)
 17. [A quoi correspondent les couleurs du logo Dofixed ?](#Q17)
 
@@ -72,12 +72,12 @@ Tout comme Dofus ne peut fonctionner sans accès à internet, Dofixed a besoin d
 
 ### <a id="Q9"></a> 9. Dofixed a cessé de fonctionner, comment remonter un bug ?
 
-Vous pouvez signaler les bugs que vous rencontrez sur notre [serveur Discord](https://discord.gg/AznAbSV). N'oubliez pas de décrire le plus précisément possible la situation. "Barbare fonctionne pas" ne nous aidera pas à régler le problème. En revanche "Barbare n'est pas indiqué raté alors que XLII m'a mis pacifiste et que je n'ai pas fait de dégâts ni soigné" nous permettra de corriger le bug bien plus rapidement. Si nécessaire, veuillez à joindre à joindre à votre message le fichier de logs correspondant. Dofixed créé un fichier par jour (supprimé toutes les semaines) qu'il stocke dans son répertoire d'installation/Log. Vous pouvez également ouvrir ce dossier depuis Dofixed, onglet "Autre".
+Vous pouvez signaler les bugs que vous rencontrez sur notre [serveur Discord](https://discord.gg/myM4GzjgPR). N'oubliez pas de décrire le plus précisément possible la situation. "Barbare fonctionne pas" ne nous aidera pas à régler le problème. En revanche "Barbare n'est pas indiqué raté alors que XLII m'a mis pacifiste et que je n'ai pas fait de dégâts ni soigné" nous permettra de corriger le bug bien plus rapidement. Si nécessaire, veuillez à joindre à joindre à votre message le fichier de logs correspondant. Dofixed créé un fichier par jour (supprimé toutes les semaines) qu'il stocke dans son répertoire d'installation/Log. Vous pouvez également ouvrir ce dossier depuis Dofixed, onglet "Autre".
 
 
 ### <a id="Q10"></a> 10. Comment proposer une nouvelle fonctionnalité ?
 
-Pour ça, direction notre [serveur Discord](https://discord.gg/AznAbSV) !
+Pour ça, direction notre [serveur Discord](https://discord.gg/myM4GzjgPR) !
 
 ### <a id="Q11"></a> 11. Est-ce que Dofixed est autorisé par Ankama ?
 
@@ -90,7 +90,7 @@ C'est un petit bug très simple à résoudre : il vous suffit de bouger l'interf
 ### <a id="Q13"></a> 13. Comment capturer la fenêtre du rapport de combat ?
 
 La nature très spéciale des fenêtres de Dofixed (multifenêtre, transparence etc ...) les rend un peu plus compliquées à capturer avec les logiciels utilisés classiquement (OBS). Ceci est dû principalement à Windows qui utilise une méthode de rendu ne permettant pas à OBS de les capturer comme des fenêtres classiques (à des fins d'optimisation).
-Il existe cependant un moyen de capturer la fenêtre de rapport de combat si vous le souhaitez. Cette solution nécessite au minimum Windows 10 et la version 25 d'OBS (disponible uniquement en pre-release au moment de l'écriture de ces lignes).
+Il existe cependant un moyen de capturer la fenêtre de rapport de combat si vous le souhaitez. Cette solution nécessite au minimum Windows 10 et une version > 25 d'OBS.
 Pour capturer le rapport de combat, vous devez utiliser une scène de type "Capture de Fenêtre", sélectionner la fenêtre concernée (normalement nommée \[Dofixed.exe\]: Fight Report) et utiliser la méthode de capture "Windows Graphics Capture". Si tout se passe bien, la prévisualisation de la fenêtre devrait apparaitre et la fenêtre devrait être entourée d'un rectangle jaune. Ce rectangle est ajouté par Windows pour indiquer qu'une capture est en cours, il n'apparait pas dans la capture en elle-même.
 
 <details>
@@ -104,7 +104,7 @@ Pour que les drops soient comptabilisés par la session, il est nécessaire que 
 
 ### <a id="Q15"></a> 15. A quoi servent les fichiers .replay ? Comment les lire ?
 
-Les fichiers .replay sont les fichiers permettant de revivre un combat enregistré par Dofixed. Pour les lire, vous devez utiliser le Dofixed Replayer. Celui-ci s'installe automatiquement au même endroit lorsque vous installez Dofixed. Nous avons prévu de permettre de le télécharger de manière indépendante prochainement pour les personnes ne souhaitant pas installer Dofixed. Contrairement à Dofixed, il ne nécessite pas que Dofus ou Dofixed soient installés sur le PC pour fonctionner correctement.
+Les fichiers .replay sont les fichiers permettant de revivre un combat enregistré par Dofixed. Pour les lire, vous devez utiliser le Dofixed Replayer. Celui-ci s'installe automatiquement au même endroit lorsque vous installez Dofixed. Si vous ne souhaitez pas installer Dofixed, un version du replayer uniquement est disponible en suivant [ce lien](https://github.com/dofixed/dofixed-replayer/archive/master.zip). Contrairement à Dofixed, il ne nécessite pas que Dofus ou Dofixed soient installés sur le PC pour fonctionner correctement.
 
 ### <a id="Q16"></a> 16. A quoi correspondent les différents chiffres dans les Kamas de la session ?
 

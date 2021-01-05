@@ -1,118 +1,117 @@
 ## FAQ
 
-1. [Comment installer Dofixed ?](#Q1)
-2. [Comment accéder à l'outil des lignes de vue présenté sur Twitter ?](#Q2)
-3. [Une version Mac/Linux est-elle prévue ?](#Q3)
-4. [Pourquoi ne pas rendre Dofixed open-source ?](#Q4)
-5. [Comment vérifier que je suis bien sur le port 5555 ?](#Q5)
-6. [Le mode semi-tactique est décalé !?](#Q6)
-7. [Dofixed ne se lance pas](#Q7)
-8. [Pourquoi Dofixed me demande un accès à internet pour le pare-feu ?](#Q8)
-9. [Dofixed a cessé de fonctionner, comment remonter un bug ?](#Q9)
-10. [Comment proposer une nouvelle fonctionnalité ?](#Q10)
-11. [Est-ce que Dofixed est autorisé par Ankama ?](#Q11)
-12. [Le coeur des PV est tout en haut à gauche en combat !](#Q12)
-13. [Comment capturer la fenêtre du rapport de combat ?](#Q13)
-14. [Les objets que je drop ne s'ajoutent pas à ma session de Kamas](#Q14)
-15. [A quoi servent les fichiers .replay ? Comment les lire ?](#Q15)
-16. [A quoi correspondent les différents chiffres dans les Kamas de la session ?](#Q16)
-17. [A quoi correspondent les couleurs du logo Dofixed ?](#Q17)
+1. [How do I install Dofixed?](#Q1)
+2. [How do I access the sightline tool I saw on Twitter?](#Q2)
+3. [Is a Mac/Linux version planned?](#Q3)
+4. [Why isn't Dofixed open-source?](#Q4)
+5. [How do I check I am on port 5555?](#Q5)
+6. [The semi-tactical mode is not at the good position!?](#Q6)
+7. [Dofixed does not launch](#Q7)
+8. [Why is Dofixed asking for an internet access through the firewall?](#Q8)
+9. [Dofixed has crashed, how do I report a bug?](#Q9)
+10. [Where can I suggest new functionalities?](#Q10)
+11. [Is Dofixed authorized by Ankama?](#Q11)
+12. [The HP heart is at the top left corner in fight!](#Q12)
+13. [How can I record the fight report window?](#Q13)
+14. [Items I drop are not added to my Kamas session](#Q14)
+15. [What are .dfxr files? How do I open them?](#Q15)
+16. [What do the different numbers in the Kamas part of the session mean?](#Q16)
+17. [What do the colors of the Dofixed logo mean?](#Q17)
 
-### <a id="Q1"></a> 1. Comment installer Dofixed ?
+### <a id="Q1"></a> 1. How do I install Dofixed?
 
-En utilisant [ce lien](https://github.com/dofixed/dofixed-install/archive/master.zip) vous obtiendrez une archive contenant : 
-- un fichier .gitignore, que vous pouvez ... ignorer
-- un fichier version.xml vous indiquant la version de Dofixed que vous avez téléchargée
-- un fichier DofixedInstaller.exe
+Using [this link](https://github.com/dofixed/dofixed-install/archive/master.zip) you'll get an archive containing:
+- a .gitignore file, that you can... ignore
+- a version.xml file showing the version of Dofixed you've just downloaded
+- a DofixedInstaller.exe file
 
-En exécutant le DofixedInstaller, le processus d'installation se lancera, vous n'aurez plus qu'à suivre les instructions :)
+Executing the DofixedInstaller file, the installation process should start, and you'll only have to follow the instructions to complete it :)
 
-### <a id="Q2"></a> 2. Comment accéder à l'outil des lignes de vue présenté sur Twitter ?
+### <a id="Q2"></a> 2. How do I access the sightline tool I saw on Twitter?
 
-Ankama n'a pas souhaité que cet outil soit conservé dans Dofixed. La fonctionnalité est donc désactivée pour le moment.
+Ankama did not want this tool to be kept in Dofixed. The functionality is therefore disabled for the moment.
 
-### <a id="Q3"></a> 3. Une version Mac/Linux est-elle prévue ?
+### <a id="Q3"></a> 3. Is a Mac/Linux version planned?
 
-Nous avons privilégié une version Windows uniquement avec des fonctionnalités utiles plutôt qu'un logiciel portable sur plusieurs plateformes mais avec moins de fonctionnalités. De plus, l'équipe ne dispose pas du matériel qui nous permettrait de tester le code rapidement et dans de bonnes conditions sur Mac. Ce n'est donc pas envisagé pour le moment. 
+We preferred a Windows-only version with useful features rather than a multi-platform software with less functionality. Moreover, the team does not have the hardware that would allow us to test the code quickly and in good conditions on Mac. This is therefore not being considered at the moment.
 
-### <a id="Q4"></a> 4. Pourquoi ne pas rendre Dofixed open-source ?
+### <a id="Q4"></a> 4. Why isn't Dofixed open-source?
 
-Il y a trois raisons principales :
-- certaines parties du code pourraient être utilisées pour faciliter la création de logiciels tels que les bots. Nous préférons que leurs créateurs ne bénéficient pas de notre aide :)
-- nous restons à l'écoute d'Ankama sur les fonctionnalités de l'application et nous ne souhaitons pas que des personnes puissent modifier Dofixed afin d'y ajouter des fonctionnalités non désirées par Ankama
-- nous ne souhaitons pas avoir à traiter des éventuels retours de bugs provenant de versions qui ne seraient pas la version que nous avons distribuée de Dofixed
+There are three main reasons:
+- some parts of the code could be used to facilitate the creation of software such as bots. We prefer not helping them :)
+- we stay in touch with Ankama and don't add functionalities they don't agree with. We do not want people to be able to modify Dofixed to add such undesired features.
+- we do not want to deal with bug reports from versions which would not be the version we distributed
 
-### <a id="Q5"></a> 5. Comment vérifier que je suis bien sur le port 5555 ?
+### <a id="Q5"></a> 5. How do I check I am on port 5555?
 
-Le choix se fait depuis la page de connexion à Dofus en cliquant sur "Options avancées".
+The choice is made from the Dofus login page by clicking on "Advanced options".
 
 <details>
-    <summary>En images</summary>
+    <summary>With pictures</summary>
     <img src="images/port_5555.jpg">
 </details>
 
-### <a id="Q6"></a> 6. Le mode semi-tactique est décalé !?
+### <a id="Q6"></a> 6. The semi-tactical mode is not at the good position!?
 
-Si vous avez un écran haute résolution ou bien un facteur de zoom Windows, cela peut venir de là. Pour modifier l'affichage de Dofixed sans toucher à vos réglages Windows, faites un clic droit sur l'icône de Dofixed sur votre bureau, puis "Propriétés", onglet "Compatibilité", bouton "Modifier les paramètres PPP élevés". Dans la nouvelle fenêtre, cochez la case "Remplacer le comportement de mise à l'échelle PPP élevée" et selectionnez l'option "Système". Quittez ensuite les options en appuyant sur "Ok" puis "Ok". Cela devrait résoudre le problème au prochain redémarrage de Dofixed. Si le problème est toujours présent, vous pouvez également tester l'option "Système (amélioré)".
+If you have a high-resolution screen or a Windows zoom factor, it may be because of this. To change the Dofixed display without touching your Windows settings, right click on the Dofixed icon on your desktop, then "Properties", "Compatibility" tab, "Change High DPI Settings" button. In the new window, check the box "Replace high PPP scaling behaviour" and select the "System" option. Then exit the options by pressing "Ok" and then "Ok". This should solve the problem the next time Dofixed is restarted. If the problem is still present, you can also test the "System (Enhanced)" option.
 
 <details>
-    <summary>En images</summary>
+    <summary>With pictures</summary>
     <img src="images/high_dpi.jpg">
 </details>
 
-### <a id="Q7"></a> 7. Dofixed ne se lance pas
+### <a id="Q7"></a> 7. Dofixed does not launch
 
-Par défaut, Dofixed n'est qu'un petit rectangle noir en haut à gauche de la fenêtre Dofus sélectionné. Si la fenêtre Dofus associée n'est pas la fenêtre active, Dofixed se cache pour éviter de gêner la vue d'autres applications. Vérifiez qu'en cliquant sur la fenêtre Dofus associée à Dofixed le petit rectangle n'apparait pas ! Si vous êtes sûr que Dofixed ne s'est pas lancé, vous pouvez signaler votre bug sur Discord.
-
-
-### <a id="Q8"></a> 8. Pourquoi Dofixed me demande un accès à internet pour le pare-feu ?
-
-Tout comme Dofus ne peut fonctionner sans accès à internet, Dofixed a besoin d'une connexion pour fonctionner correctement.
+By default, Dofixed is only a small black square at the top left corner of your Dofus window. If the associated Dofus window is not the active window, Dofixed hides to avoid obstructing the view of other applications. If Dofixed still does not appear by clicking on the associated Dofus window, try reporting the bug on our discord server.
 
 
-### <a id="Q9"></a> 9. Dofixed a cessé de fonctionner, comment remonter un bug ?
+### <a id="Q8"></a> 8. Why is Dofixed asking for an internet access through the firewall?
 
-Vous pouvez signaler les bugs que vous rencontrez sur notre [serveur Discord](https://discord.gg/AznAbSV). N'oubliez pas de décrire le plus précisément possible la situation. "Barbare fonctionne pas" ne nous aidera pas à régler le problème. En revanche "Barbare n'est pas indiqué raté alors que XLII m'a mis pacifiste et que je n'ai pas fait de dégâts ni soigné" nous permettra de corriger le bug bien plus rapidement. Si nécessaire, veuillez à joindre à joindre à votre message le fichier de logs correspondant. Dofixed créé un fichier par jour (supprimé toutes les semaines) qu'il stocke dans son répertoire d'installation/Log. Vous pouvez également ouvrir ce dossier depuis Dofixed, onglet "Autre".
+Just as Dofus can't work without internet, Dofixed needs a connection to work properly.
 
 
-### <a id="Q10"></a> 10. Comment proposer une nouvelle fonctionnalité ?
+### <a id="Q9"></a> 9. Dofixed has crashed, how do I report a bug?
 
-Pour ça, direction notre [serveur Discord](https://discord.gg/AznAbSV) !
+You can report bug on our [Discord server](https://discord.gg/myM4GzjgPR). Don't forget to describe the situation as precisely as possible. "It doesn't work" will not help much solving the problem. "Dofixed crashes when I start it and I have three Dofus windows open" on the other hand will help us to find the problem quicker. If necessary, please attach the corresponding log file to your message. Dofixed creates one file per day (deleted every week) which is stored in its installation/Log directory. You can also open this folder directly from Dofixed tab "Autre".
 
-### <a id="Q11"></a> 11. Est-ce que Dofixed est autorisé par Ankama ?
 
-La question est difficile... L'équipe de Dofixed est en contact avec Ankama pour qu'ils valident les différentes fonctionnalités que nous ajoutons. En revanche l'utilisation de programme tiers est toujours interdite par les CGU de Dofus. La position officielle d'Ankama est donc que Dofixed n'est pas autorisé. La publicité de Dofixed en jeu et sur le forum est par conséquent interdite.
+### <a id="Q10"></a> 10. Where can I suggest new functionalities?
 
-### <a id="Q12"></a> 12. Le coeur des PV est tout en haut à gauche en combat !
+Just jump in our [Discord serveer](https://discord.gg/myM4GzjgPR)!
 
-C'est un petit bug très simple à résoudre : il vous suffit de bouger l'interface Dofus avec le coeur et la barre des sorts (puis de la remettre à sa place si vous voulez). Le coeur devrait retrouver sa position tout seul et se positionner correctement pour les combats suivants.
+### <a id="Q11"></a> 11. Is Dofixed authorized by Ankama?
 
-### <a id="Q13"></a> 13. Comment capturer la fenêtre du rapport de combat ?
+It's a difficult question... We stay in touch with Ankama so they can validate the ideas we want to implement in Dofixed. On the other hand, the use of third party programs is still forbidden by the TOS of Dofus. Ankama's official position is therefore that Dofixed is not authorized. The advertising of Dofixed in game on public channels and on the forum is therefore prohibited.
 
-La nature très spéciale des fenêtres de Dofixed (multifenêtre, transparence etc ...) les rend un peu plus compliquées à capturer avec les logiciels utilisés classiquement (OBS). Ceci est dû principalement à Windows qui utilise une méthode de rendu ne permettant pas à OBS de les capturer comme des fenêtres classiques (à des fins d'optimisation).
-Il existe cependant un moyen de capturer la fenêtre de rapport de combat si vous le souhaitez. Cette solution nécessite au minimum Windows 10 et la version 25 d'OBS (disponible uniquement en pre-release au moment de l'écriture de ces lignes).
-Pour capturer le rapport de combat, vous devez utiliser une scène de type "Capture de Fenêtre", sélectionner la fenêtre concernée (normalement nommée \[Dofixed.exe\]: Fight Report) et utiliser la méthode de capture "Windows Graphics Capture". Si tout se passe bien, la prévisualisation de la fenêtre devrait apparaitre et la fenêtre devrait être entourée d'un rectangle jaune. Ce rectangle est ajouté par Windows pour indiquer qu'une capture est en cours, il n'apparait pas dans la capture en elle-même.
+### <a id="Q12"></a> 12. The HP heart is at the top left corner in fight!
+
+It is a very small bug simple to solve: you just have to move the UI section with the heart and the spell bar anywhere. You can then put it back where it was, and the Dofixed heart should find its position by itself from now on.
+
+### <a id="Q13"></a> 13. How can I record the fight report window?
+
+Very special nature of Dofixed windows (multi-window, transparency etc...) makes them a little more complicated to record with conventional software like OBS. This is mainly due to Windows rendering them with a method that does not allow OBS to capture them as easily as classic windows (for optimisation purposes).
+There is however a way to record the fight report window. This solution requires at least Windows 10 and a version > 25 of OBS. To capture the fight report, you must use a "Window capture" scene, select the relevant window (nomally named \[Dofixed.exe\]: Fight Report), and use the "Windows Graphics Capture" tool. If all goes well, the window preview should appear and the window itself should be sourrounded by a yellow rectangle. This rectangle is added by Windows to indicate that the window is being captured, it does not appear in the record.
 
 <details>
-    <summary>En images</summary>
+    <summary>With pictures</summary>
     <img src="images/obs_fight_report.jpg">
 </details>
 
-### <a id="Q14"></a> 14. Les objets que je drop ne s'ajoutent pas à ma session de Kamas
+### <a id="Q14"></a> 14. Items I drop are not added to my Kamas session
 
-Pour que les drops soient comptabilisés par la session, il est nécessaire que Dofixed connaisse votre serveur de jeu (pour utiliser des prix estimés réalistes). Vous pouvez vérifier dans l'onglet "Social" si vous avez ajouté votre serveur. Si ce n'est pas le cas, il suffit d'utiliser la commande /whoami dans le chat et de changer de map. Si vous avez déjà utilisé la commande sur ce personnage, un changement de map suffit !
+For the session to count your dropped items, Dofixed needs to know your game server (to use estimated prices). You can check if Dofixed knows your server by the color of the logo. If it's white, everything is fine. If not, just use the /whoami command in Dofus chat and change from the current map (go to your heavenbag for example). If you've already used this command on this character once, changing map is enough!
 
-### <a id="Q15"></a> 15. A quoi servent les fichiers .replay ? Comment les lire ?
+### <a id="Q15"></a> 15. What are .dfxr files? How do I open them?
 
-Les fichiers .replay sont les fichiers permettant de revivre un combat enregistré par Dofixed. Pour les lire, vous devez utiliser le Dofixed Replayer. Celui-ci s'installe automatiquement au même endroit lorsque vous installez Dofixed. Nous avons prévu de permettre de le télécharger de manière indépendante prochainement pour les personnes ne souhaitant pas installer Dofixed. Contrairement à Dofixed, il ne nécessite pas que Dofus ou Dofixed soient installés sur le PC pour fonctionner correctement.
+.dfxr files are the files creating by Dofixed to record a fight, allowing people to replay it later. To read them, you must use the Dofixed Replayer. It is automatically installed along with Dofixed. If you do not want to install Dofixed, but do want to use the replayer to replay fights, a standalone version can be found following [this link](https://github.com/dofixed/dofixed-replayer/archive/master.zip). Contrary to Dofixed, the replayer does not require you to have Dofus or Dofixed installed on your computer, and does not need any internet connection.
 
-### <a id="Q16"></a> 16. A quoi correspondent les différents chiffres dans les Kamas de la session ?
+### <a id="Q16"></a> 16. What do the different numbers in the Kamas part of the session mean?
 
-Les Kamas de la session sont divisés en trois parties, dans l'ordre :
-- les Kamas "bruts" obtenus soit à la fin des combats, soit par quête/succès. Si l'option multi-compte est activée, les Kamas des quêtes/succès de tous les comptes connectés sont additionnés.
-- les Kamas "estimés" à partir des ressources obtenues soit à la fin des combats, soit par quête/succès. Si l'option multi-compte est activée, les items des quêtes/succès de tous les comptes sont additionnés.
-- les Kamas "détruits" lors de l'utilisation de Zaap, d'ouverture de compte en banque, de mise en vente en HDV ou de PNJ pas sympa. Si l'option multi-compte est activée, les Kamas détruits de tous les comptes sont additionnés.
+Session's Kamas are divided into three parts, in order:
+- the raw Kamas obtained at the end of fights, quests or achievements. If the multi-account option of Dofixed is activated, the Kamas obtained through quests and achievements of all accounts are added
+- the estimated Kamas from the resources obtained at the end of fights, quests or achievements. If the multi-account option is activated, the items of the quests and achievements of all accounts are added
+- Kamas "destroyed" when using Zaap, opening a bank account, selling in HDV or bad quest dialogs. If the multi-account option is activated, the Kamas destroyed from all accounts are added
 
-### <a id="Q17"></a> 17. A quoi correspondent les couleurs du logo Dofixed ?
+### <a id="Q17"></a> 17. What do the colors of the Dofixed logo mean?
 
-Le logo peut prendre différentes couleurs pour vous indiquer les éventuels problème que peut rencontrer Dofixed au lancement. En passant votre souris sur le logo, un tooltip devrait apparaitre pour vous indiquer comment résoudre le problème !
+The logo can be colored with different teints indicating a potentiel problem with Dofixed. If you move your mouse over the logo, a tooltip should appear to tell you what the problem is, and a potential solution to fix it.

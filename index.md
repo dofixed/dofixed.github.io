@@ -44,7 +44,7 @@ Si vous souhaitez ouvrir les fichiers dfxr enregistrés avec Dofixed mais que vo
 
 - Windows uniquement
 - Vous devez vous connecter avec le port 5555 (dans la fenêtre de connexion, le choix du port se trouve après avoir cliqué sur "options avancées")
-- Si vous jouez en multicompte, Dofixed vous demandera au lancement à quelle fenêtre vous voulez l'associer
+- Si vous jouez en multicompte, Dofixed vous demandera au lancement à quelle fenêtre vous voulez l'associer. Certaines fonctionnalités commencent à être être utilisables en cas de multicompte.
 - Dofixed ne peut pas gérer les différents niveaux de zoom du jeu
 
 

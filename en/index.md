@@ -1,68 +1,71 @@
 ## Dofixed
 
-Dofixed est une application non officielle visant à améliorer le confort utilisateur sur le MMORPG Dofus à travers différents outils.
+Dofixed is an unofficial application aimed at improving user experience on the Dofus MMORPG through different tools.
 
-## Fonctionnalités
+## Features
 
-- ~~détection de l'échec des succès en temps réel~~
-- rapport de combat détaillé (dégâts infligés, répartition des dégâts par élément, retrait PA/PM etc ...)
-- suivi du gain d'XP et de Kamas en temps réel
-- mode semi-tactique (obstacles/trous visibles, affichage des positions des entités cachées par les décors)
-- intégration à Discord améliorée
-- liens rapides vers Dofensive
-- almanax intégré avec les offrandes et les bonus
-- partage communautaire des positions des portails
-- liens rapides vers les tutoriaux JoL des quêtes
-- chat vocal de map
-- chat vocal d'équipe en combat
-- (bêta) timeline améliorée
-- enregistrement et replay des combats en "offline"
+- ~~real-time detection of achievement failures~~
+- detailed fight report (damages, damage repartition per element, AP/MP removal etc...)
+- real-time XP and Kamas gain monitoring (
+- semi-tactical mode (obstacles/visible holes, display of the positions of entities hidden by the foreground without the full tactical mode)
+- improved Discord integration
+- quick links to DoFensive website
+- integrated almanax with both offerings and bonuses
+- community sharing of portal locations
+- quick links to JoL tutorials for quests
+- map voice chat
+- team fight voice chat
+- (beta) improved timeline
+- recording and replaying of fights in "offline" mode
 
-## Installation, lancement, mises à jour et désinstallation
+## Install, launch, updates and uninstall
 
-### Installation
+### Install
 
-Vous pouvez télécharger le .zip contenant l'installateur de Dofixed en suivant [ce lien](https://github.com/dofixed/dofixed-install/archive/master.zip).
+You can download the .zip file containing Dofixed installer by following [this link](https://github.com/dofixed/dofixed-install/archive/master.zip).
 
-### Lancement
+### Launch
 
-Une fois l'application installée, il suffit de cliquer sur l'icône créée sur le bureau pour la lancer. Dofixed attendra qu'une fenêtre Dofus soit ouverte pour se lancer (Spoil : si y'en a pas, Dofixed sert à rien). Dofixed se fermera automatiquement à la fermeture de la fenêtre Dofus.
+Once Dofixed is installed, simply click on the shortcut created on your desktop to launch it. Dofixed will wait until a Dofus window is opened to start (spoil: if there is none, Dofixed is useless). Dofixed will close automatically at the closing of the associated Dofus window.
 
-### Mises à jour
+### Update
 
-A chaque lancement, Dofixed vérifie la présence d'une mise à jour et propose à l'utilisateur de l'installer automatiquement. Après la mise à jour, Dofixed se relancera automatiquement (il peut y avoir un petit délais de quelques secondes où "rien ne se passe"). Il est également possible de télécharger la dernière version et de la réinstaller manuellement, l'installer proposera de désinstaller l'ancienne version avant de réinstaller la nouvelle.
+Whenever it starts, Dofixed checks for an update and proposes to install it automatically. After the update, Dofixed will restart on its own (there may be a few seconds where "nothing happens"). It's also possible to download the latest version and reinstall it manually. The installer will propose to uninstall the old version first.
 
-### Désinstallation
 
-Dofixed se désinstalle comme n'importe quel programme à partir du panneau de désinstallation des programmes Windows.
+
+### Uninstall
+
+You can uninstall Dofixed at any time from the Windows uninstall program panel. Make sure Dofixed is **not** running before you do.
 
 ### No install replayer
 
-Si vous souhaitez ouvrir les fichiers dfxr enregistrés avec Dofixed mais que vous ne souhaitez pas installer l'application, vous pouvez télécharger une version "no install" du replayer uniquement en suivant [ce lien](https://github.com/dofixed/dofixed-replayer/archive/master.zip).
+If you wish to open a dfxr file created with Dofixed but do not wish to install the application, you can download a "no install" version of the replayer only by following [this link](https://github.com/dofixed/dofixed-replayer/archive/master.zip).
 
 ## Limitations
 
-- Windows uniquement
-- Vous devez vous connecter avec le port 5555 (dans la fenêtre de connexion, le choix du port se trouve après avoir cliqué sur "options avancées")
-- Si vous jouez en multicompte, Dofixed vous demandera au lancement à quelle fenêtre vous voulez l'associer
-- Dofixed ne peut pas gérer les différents niveaux de zoom du jeu
+- Windows only
+- You have to connect with port 5555 (in the connection window, the choice of port can be found after clicking on "advanced options").
+- If you play with multiple accounts, Dofixed will ask you which window you want to associate to it to. Some functionalities start to be usable in case of multi-accounts though.
+- Dofixed can not handle in game zoom
 
 
-## Avertissements
+## Warnings
 
-Attention, Dofixed n'a pas été autorisé par la société Ankama. Les CGU du jeu précisent qu'il est interdit d'utiliser des outils tiers ou d'en faire la pub sur le jeu/forum officiel. Dofixed ne respecte donc **pas** les CGU et un risque de ban est toujours présent. L'équipe Dofixed ne peut être tenue responsable en cas de ban.
-Cependant, Dofixed ne modifie pas le jeu ou ses fichiers, il ne fait que l'observer et afficher des informations. Il ne s'agit en aucun cas d'un bot et aucune action n'est automatisée. Par conséquent, l'utilisation de Dofixed n'est pas plus détectable par le jeu que celle de Paint ou de Discord, et nous serions très surpris de voir un ban arriver. La bêta existe depuis Septembre 2019, et à notre connaissance, aucun problème de ban lié à l'utilisation de Dofixed n'a été reporté.
+Dofixed has **not** been authorized officially by Ankama. The TOS of the game specify that it is forbidden to use third party tools, or to advertise them on the official game/forum. Dofixed therefore does **not** respect the TOS and a risk of ban is always present. Dofixed  team can not be held responsible in case of a ban.
 
-**Notre seul objectif est d'améliorer l'expérience des joueurs, sans modifier le jeu tel qu'il est conçu par Ankama. Nous soumettons systématiquement nos idées de features à Ankama et nous attendons leur approbation avant de déployer quoi que ce soit dans Dofixed.**
+**However**, Dofixed does not modify the game or its files, it only observes it and display information over it. It is in no way a bot and no action is automated. Therefore, the use of Dofixed is not detectable by Ankama than the use of other programs like Paint or Discord, and we would be very surprised to see a ban happening. Dofixed has been out since Septembre 2019, and, to our knowledge, no ban occured because of Dofixed.
+
+**Our only objective is to improve the player experience, without modifying the game as designed by Ankama. All Dofixed features ideas are systematically submitted to Ankama, and we await their approval before deploying anything in Dofixed.**
 
 
-### Et si c'était du hack ?
+### What if it is a hack thing?
 
-La question est légitime. La vraie application Dofixed est 100% sûre pour votre compte Dofus (mais c'est aussi ce que dirait un hacker :/). Il n'y a pas vraiment de moyen d'attester de la non dangerosité de notre application. La seule chose qu'on puisse dire c'est qu'une analyse sur VirusTotal ne déclenche aucun des "grands" anti-virus. En général on déclenche une alerte (Cylance et/ou VBA32), il s'agit de faux positifs.
+This is a legitimate question. The real Dofixed application is 100% safe for your Dofus account (but that's also what a hacker would say :/). There is not really a way for us to certify the harmlessness of our application. The only thing we can say is that a scan on VirusTotal does not trigger any of the "big" anti-virus software. Usually, there are some minor alerts (Cylance and/or VBA32 sometimes, depending on the version), these are false positives.
 
-Après c'est à vous de voir, si vous voulez pas utiliser Dofixed on ne va pas vous forcer :D
+At the end, it's up to you, if you don't want to use Dofixed, we won't force you to :D
 
-### Bla bla bla
+### Blah blah blah
 
-L'équipe Dofixed n'est pas responsable en cas d'explosion de votre PC, de chute de cheveux ou de départ de l'être aimé.
+The Dofixed team is not responsible if your computer explodes, your hair falls or your loved one leaves.
 
