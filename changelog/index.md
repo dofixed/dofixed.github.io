@@ -10,6 +10,7 @@
 #### Corrections
 
 - Les liens discord ne renvoie plus vers un canal à accès restreint
+- Désactivation des rendus d'images nécessitant Flash en attendant de trouver une solution
 
 
 ### <a id="1.2.2"></a>1.2.2
