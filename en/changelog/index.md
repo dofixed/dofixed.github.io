@@ -1,11 +1,23 @@
 ## Changelog
 
 
+### <a id="1.2.3"></a>1.2.3
+
+#### Improvements
+
+- Compatibility with 2.58.3.3
+
+#### Fix
+
+- Discord invitations do not link to a restricted channel anymore
+
 ### <a id="1.2.2"></a>1.2.2
+<details markdown="1">
 
 #### Improvements
 
 - Compatibility with 2.58
+</details>
 
 
 ### <a id="1.2.1"></a>1.2.1

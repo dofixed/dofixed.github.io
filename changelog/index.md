@@ -1,11 +1,24 @@
 ## Changelog
 
 
+### <a id="1.2.3"></a>1.2.3
+
+#### Améliorations
+
+- Compatibilité avec la 2.58.3.3
+
+#### Corrections
+
+- Les liens discord ne renvoie plus vers un canal à accès restreint
+
+
 ### <a id="1.2.2"></a>1.2.2
+<details markdown="1">
 
 #### Améliorations
 
 - Compatibilité avec la 2.58
+</details>
 
 
 ### <a id="1.2.1"></a>1.2.1
