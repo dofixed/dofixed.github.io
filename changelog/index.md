@@ -1,7 +1,14 @@
 ## Changelog
 
 
+### <a id="1.2.3.1"></a>1.2.3.1
+
+### Améliorations
+
+- Le module DoFensive retrouve sa couleurs d'antan (avec des images)
+
 ### <a id="1.2.3"></a>1.2.3
+<details markdown="1">
 
 #### Améliorations
 
@@ -11,7 +18,7 @@
 
 - Les liens discord ne renvoie plus vers un canal à accès restreint
 - Désactivation des rendus d'images nécessitant Flash en attendant de trouver une solution
-
+</details>
 
 ### <a id="1.2.2"></a>1.2.2
 <details markdown="1">

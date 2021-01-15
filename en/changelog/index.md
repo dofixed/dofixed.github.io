@@ -1,7 +1,13 @@
 ## Changelog
 
+### <a id="1.2.3.1"></a>1.2.3.1
+
+#### Improvements
+
+- DoFensive module is back to its former glory (with images)
 
 ### <a id="1.2.3"></a>1.2.3
+<details markdown="1">
 
 #### Improvements
 
@@ -11,6 +17,7 @@
 
 - Discord invitations do not link to a restricted channel anymore
 - Image rendering requiring Flash has been disabled pending to find a new solution
+</details>
 
 ### <a id="1.2.2"></a>1.2.2
 <details markdown="1">
