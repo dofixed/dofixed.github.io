@@ -1,11 +1,19 @@
 ## Changelog
 
 
+### <a id="1.2.4"></a>1.2.4
+
+### Corrections
+
+- Le moteur de rendu Flash est de nouveau opérationnel. Les rendus font leur réapparition dans la timeline, les replays ainsi la fenêtre de chat vocal.
+
 ### <a id="1.2.3.1"></a>1.2.3.1
+<details markdown="1">
 
 ### Améliorations
 
 - Le module DoFensive retrouve sa couleurs d'antan (avec des images)
+</details>
 
 ### <a id="1.2.3"></a>1.2.3
 <details markdown="1">

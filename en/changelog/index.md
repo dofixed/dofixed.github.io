@@ -1,10 +1,18 @@
 ## Changelog
 
+### <a id="1.2.4"></a>1.2.4
+
+### Fix
+
+- The Flash renderer is back. Renderings reappear in the timeline, replays and the voice chat window.
+
 ### <a id="1.2.3.1"></a>1.2.3.1
+<details markdown="1">
 
 #### Improvements
 
 - DoFensive module is back to its former glory (with images)
+</details>
 
 ### <a id="1.2.3"></a>1.2.3
 <details markdown="1">
