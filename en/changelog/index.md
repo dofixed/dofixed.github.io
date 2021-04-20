@@ -1,10 +1,27 @@
 ## Changelog
 
-### <a id="1.2.4"></a>1.2.4
+### <a id="1.3"></a>1.3
 
-### Fix
+#### News
+
+- Compatibility with 2.59 Dofus version
+- Dofixed can now send anonymous data on the mobs to our partner Dofensive. Data telemetry can be disabled using an option in the "Autre" tab.
+
+#### Fix
+
+- Characters are now correctly rendered in the replay files
+
+#### Regression
+
+- Due to major changes in Dofus in 2.59, all fight functionalities of Dofixed are now broken. We will work to repair these features.
+
+### <a id="1.2.4"></a>1.2.4
+<details markdown="1">
+
+#### Fix
 
 - The Flash renderer is back. Renderings reappear in the timeline, replays and the voice chat window.
+</details>
 
 ### <a id="1.2.3.1"></a>1.2.3.1
 <details markdown="1">

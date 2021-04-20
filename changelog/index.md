@@ -1,16 +1,33 @@
 ## Changelog
 
+### <a id="1.3"></a>1.3
+
+#### Nouveautés
+
+- Compatibilité avec la 2.59 de Dofus
+- Dofixed peut désormais transmettre des informations anonyme sur les monstres à notre partenaire Dofensive pour l'amélioration du service. L'envoi peut se désactiver grâce à une option présente dans l'onglet "Autre"
+
+#### Corrections
+
+- Les rendus des personnages sont désormais présents dans le replayer
+
+#### Régression
+
+- Les fonctionnalités liées aux combats sont temporairement cassées à cause de changements majeurs dans la 2.59. Nous travaillerons prochainement à restaurer ces fontionnalités.
+
 
 ### <a id="1.2.4"></a>1.2.4
+<details markdown="1">
 
-### Corrections
+#### Corrections
 
 - Le moteur de rendu Flash est de nouveau opérationnel. Les rendus font leur réapparition dans la timeline, les replays ainsi la fenêtre de chat vocal.
+</details>
 
 ### <a id="1.2.3.1"></a>1.2.3.1
 <details markdown="1">
 
-### Améliorations
+#### Améliorations
 
 - Le module DoFensive retrouve sa couleurs d'antan (avec des images)
 </details>
