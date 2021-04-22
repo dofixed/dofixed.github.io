@@ -1,6 +1,14 @@
 ## Changelog
 
+### <a id="1.3.1"></a>1.3.1
+
+#### News
+
+- A new functionnality is added for Five-Cat Draw: recipes discovered by crafting are automatically added to a save file. This file can be found in the installation path of Dofixed, foldder "chinq".
+
+
 ### <a id="1.3"></a>1.3
+<details markdown="1">
 
 #### News
 
@@ -14,6 +22,7 @@
 #### Regression
 
 - Due to major changes in Dofus in 2.59, all fight functionalities of Dofixed are now broken. We will work to repair these features.
+</details>
 
 ### <a id="1.2.4"></a>1.2.4
 <details markdown="1">

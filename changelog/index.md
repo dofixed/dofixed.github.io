@@ -1,6 +1,13 @@
 ## Changelog
 
+### <a id="1.3.1"></a>1.3.1
+
+#### Nouveautés
+
+- Ajout d'une fonctionnalité "Chinq" : les recettes que vous découvrez en craftant seront automatiquement sauvegardées dans un fichier disponible dans le répertoire d'installation de Dofixed (dossier chinq).
+
 ### <a id="1.3"></a>1.3
+<details markdown="1">
 
 #### Nouveautés
 
@@ -14,6 +21,7 @@
 #### Régression
 
 - Les fonctionnalités liées aux combats sont temporairement cassées à cause de changements majeurs dans la 2.59. Nous travaillerons prochainement à restaurer ces fontionnalités.
+</details>
 
 
 ### <a id="1.2.4"></a>1.2.4
