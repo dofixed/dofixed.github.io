@@ -1,10 +1,19 @@
 ## Changelog
 
+### <a id="1.3.2"></a>1.3.2
+
+#### Nouveautés
+
+- Compatibilité avec la 2.59.8.9 de Dofus
+
+
 ### <a id="1.3.1"></a>1.3.1
+<details markdown="1">
 
 #### Nouveautés
 
 - Ajout d'une fonctionnalité "Chinq" : les recettes que vous découvrez en craftant seront automatiquement sauvegardées dans un fichier disponible dans le répertoire d'installation de Dofixed (dossier chinq).
+</details>
 
 ### <a id="1.3"></a>1.3
 <details markdown="1">

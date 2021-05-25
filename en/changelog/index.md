@@ -1,10 +1,18 @@
 ## Changelog
 
+### <a id="1.3.2"></a>1.3.2
+
+#### News
+
+- Compatibility with 2.59.8.9 Dofus version
+
 ### <a id="1.3.1"></a>1.3.1
+<details markdown="1">
 
 #### News
 
 - A new functionnality is added for Five-Cat Draw: recipes discovered by crafting are automatically added to a save file. This file can be found in the installation path of Dofixed, foldder "chinq".
+</details>
 
 
 ### <a id="1.3"></a>1.3
