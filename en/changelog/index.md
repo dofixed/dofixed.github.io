@@ -1,10 +1,19 @@
 ## Changelog
 
+### <a id="1.3.3"></a>1.3.3
+
+#### News
+
+- Compatibility with 2.60.1.4 Dofus version
+
+
 ### <a id="1.3.2"></a>1.3.2
+<details markdown="1">
 
 #### News
 
 - Compatibility with 2.59.8.9 Dofus version
+</details>
 
 ### <a id="1.3.1"></a>1.3.1
 <details markdown="1">
